@@ -2,10 +2,9 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AntoninoSirchia) &nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/antonino-sirchia-15009062/)&nbsp;
-[![LinkedIn Badge](https://img.shields.io/badge/stackoverflow-profile-orange?&style=for-the-badge&logo=&logoColor=orange)](https://dev.to/sirnino)&nbsp;
-[![LinkedIn Badge](https://img.shields.io/badge/dev.to-profile-black?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/sirnino)&nbsp;
-[![LinkedIn Badge](https://img.shields.io/badge/medium-profile-black?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sirnino) &nbsp;
-
+[![dev.to Badge](https://img.shields.io/badge/dev.to-profile-black?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/sirnino)&nbsp;
+[![medium Badge](https://img.shields.io/badge/medium-profile-black?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sirnino) &nbsp;
+[![stackoverflow Badge](https://stackoverflow.com/users/flair/4442344.png?theme=default)](https://stackoverflow.com/users/4442344/sirnino) &nbsp;
 
 ### Hi there 👋
 
