@@ -1,4 +1,4 @@
-[![Sirnino's GitHub Banner](./assets/background.jpg)](https://sirnino.github.io)
+[![Sirnino's GitHub Banner](./assets/logo.png)](https://sirnino.github.io)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AntoninoSirchia) &nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/antonino-sirchia-15009062/)&nbsp;
@@ -16,6 +16,8 @@ Find out more about me on my blog [https://sirnino.github.io](https://sirnino.gi
 &nbsp;
 
 # 📝Latest blog posts
+
+[![Sirnino's GitHub Banner](./assets/background.jpg)](https://sirnino.github.io)
 
  - ### [How to write a good commit message](https://sirnino.github.io/posts/how-to-write-a-good-commit-message/)
  - ### [How I am leveraging my IT skills against Covid-19 pandemic](https://sirnino.github.io/posts/how-i-am-leveraging-my-it-skills-against-covid-19-pandemic/)
