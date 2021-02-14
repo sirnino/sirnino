@@ -1,4 +1,4 @@
-[![Sirnino's GitHub Banner](https://sirnino.github.io/assets/images/background.jfif)](https://sirnino.github.io)
+[![Sirnino's GitHub Banner](./assets/background.jpg)](https://sirnino.github.io)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AntoninoSirchia) &nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/antonino-sirchia-15009062/)&nbsp;
