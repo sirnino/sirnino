@@ -17,6 +17,6 @@ Find out more about me on my blog [https://sirnino.github.io](https://sirnino.gi
 
 # 📝Latest blog posts
 
- - ## [How to write a good commit message](https://sirnino.github.io/posts/how-to-write-a-good-commit-message/)
- - ## [How I am leveraging my IT skills against Covid-19 pandemic](https://sirnino.github.io/posts/how-i-am-leveraging-my-it-skills-against-covid-19-pandemic/)
- - ## [Top 5 design pattern every Programmer should know (and use)](https://sirnino.github.io/posts/top-5-design-pattern-every-programmer-should-know-and-use/)
+ - ### [How to write a good commit message](https://sirnino.github.io/posts/how-to-write-a-good-commit-message/)
+ - ### [How I am leveraging my IT skills against Covid-19 pandemic](https://sirnino.github.io/posts/how-i-am-leveraging-my-it-skills-against-covid-19-pandemic/)
+ - ### [Top 5 design pattern every Programmer should know (and use)](https://sirnino.github.io/posts/top-5-design-pattern-every-programmer-should-know-and-use/)
