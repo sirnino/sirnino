@@ -24,17 +24,19 @@ Find out more about me on my blog [https://sirnino.github.io](https://sirnino.gi
 </a>
 
 <h2>🚀 I know about...</h2>
-<p style="margin-bottom:40px">
-<img src="assets/java.png" alt="java" title="java" width="45" height="45" />
-<img src="assets/javascript-original.svg" title="javascript" alt="javascript" width="45" height="45" />
-<img src="assets/bitbucket-icon.svg" alt="BitBucket" width="45" height="45"/>
-<img src="assets/gitlab-icon.svg" alt="Gitlab" width="45" height="45" />
-<img src="assets/github-icon.svg" alt="Github" width="45" height="45" />
-
-<img src="assets/rabbitmq-icon.svg" alt="rabbitmq" width="45" height="45" />
-<img src="assets/apache_kafka-icon.svg" alt="Kafka" width="45" height="45" />
-<img src="assets/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" />
-<img src="assets/docker-icon.svg" alt="Docker" width="45" height="45" />
+ 
+<p style="margin-bottom:40px; text-align:center;">
+  <img align="center" src="assets/java.png" alt="java" title="java" style="margin:0.5rem;"/>
+  <img align="center" src="assets/javascript-original.png" title="javascript" alt="javascript" style="margin:0.5rem;"/>
+  
+  <img align="center" src="assets/bitbucket-icon.png" alt="BitBucket" style="margin:0.5rem;"/>
+  <img align="center" src="assets/gitlab-icon.png" alt="Gitlab" style="margin:0.5rem;" />
+  <img align="center" src="assets/github-icon.png" alt="Github" style="margin:0.5rem;" />
+  
+  <img align="center" src="assets/rabbitmq-icon.png" alt="rabbitmq" style="margin:0.5rem;" />
+  <img align="center" src="assets/kafka.png" alt="Kafka" style="margin:0.5rem;" />
+  <img align="center" src="assets/kubernetes-icon.png" alt="Kubernetes" style="margin:0.5rem;" />
+  <img align="center" src="assets/docker-icon.png" alt="Docker" style="margin:0.5rem;" />
 <p>
 
 <h2> 📝Latest blog posts </h2>
@@ -45,3 +47,10 @@ Find out more about me on my blog [https://sirnino.github.io](https://sirnino.gi
  <li><h3><a href="https://sirnino.github.io/posts/how-i-am-leveraging-my-it-skills-against-covid-19-pandemic/">How I am leveraging my IT skills against Covid-19 pandemic</a></h3></li>
  <li><h3><a href="https://sirnino.github.io/posts/top-5-design-pattern-every-programmer-should-know-and-use/">Top 5 design pattern every Programmer should know (and use)</a></h3></li>
  </ul>
+
+<br/>
+<hr/>
+<blockquote>
+    <h3>Wanna know how I made this README?</h3>
+    Checkout my <a href="#">tutorial</a>
+</blockquote>
