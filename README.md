@@ -1,12 +1,17 @@
-# [![Sirnino's Logo](./assets/logo.png)](https://sirnino.github.io) &nbsp; &nbsp; &nbsp; Human being from 1987, developer from 2005
+[![Sirnino's Logo](./assets/logo.png)](https://sirnino.github.io)
+<hr/>
+<p>
 
-<a href="https://twitter.com/AntoninoSirchia"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1"/></a>&nbsp;<a href="https://www.linkedin.com/in/antonino-sirchia-15009062/"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8"/></a>&nbsp;<a href="https://dev.to/sirnino"><img src="https://img.shields.io/badge/dev.to-profile-black?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/></a>&nbsp;<a href="https://medium.com/@sirnino"><img src="https://img.shields.io/badge/medium-profile-black?&style=for-the-badge&logo=medium&logoColor=white"/></a>&nbsp;<a href="https://stackoverflow.com/users/4442344/sirnino"><img src="https://stackoverflow.com/users/flair/4442344.png?theme=default"/></a>
+<a href="https://twitter.com/AntoninoSirchia"><img alt="Twitter" src="https://img.shields.io/badge/-AntoninoSirchia-lightblue?style=for-the-badge&logo=twitter"></a>&nbsp;<a href="https://www.linkedin.com/in/antonino-sirchia-15009062/"><img alt="Linkedin" src="https://img.shields.io/badge/-antoninosirchia-blue?style=for-the-badge&logo=linkedin"></a>&nbsp;<a href="https://dev.to/sirnino"><img alt="Dev.to" src="https://img.shields.io/badge/-sirnino-black?style=for-the-badge&logo=dev.to"></a>&nbsp;<a href="https://medium.com/@sirnino"><img src="https://img.shields.io/badge/-sirnino-black?style=for-the-badge&logo=medium"/></a>&nbsp;<a href="https://stackoverflow.com/users/4442344/sirnino"><img src="https://img.shields.io/badge/-sirnino-orange?style=for-the-badge&logo=stackexchange"/></a>
+</p>
+<hr/>
 
 Hi there 👋
 
 I'm **Sirnino**, software engineer and architect for passion and profession. Curious internet surfer and world observer.
 
 Find out more about me on my blog [https://sirnino.github.io](https://sirnino.github.io).
+
 
 <h2>My Stats</h2>
 
