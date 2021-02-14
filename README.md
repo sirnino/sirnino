@@ -6,23 +6,17 @@
 [![medium Badge](https://img.shields.io/badge/medium-profile-black?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sirnino) &nbsp;
 [![stackoverflow Badge](https://stackoverflow.com/users/flair/4442344.png?theme=default)](https://stackoverflow.com/users/4442344/sirnino) &nbsp;
 
-### Hi there 👋
+Hi there 👋
 
 I'm **Sirnino**, software engineer and architect for passion and profession. Curious internet surfer and world observer.
 
 Find out more about me on my blog [https://sirnino.github.io](https://sirnino.github.io).
 
-<!--
-**sirnino/sirnino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
+&nbsp;
 
-Here are some ideas to get you started:
+# 📝Latest blog posts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - ## [How to write a good commit message](https://sirnino.github.io/posts/how-to-write-a-good-commit-message/)
+ - ## [How I am leveraging my IT skills against Covid-19 pandemic](https://sirnino.github.io/posts/how-i-am-leveraging-my-it-skills-against-covid-19-pandemic/)
+ - ## [Top 5 design pattern every Programmer should know (and use)](https://sirnino.github.io/posts/top-5-design-pattern-every-programmer-should-know-and-use/)
