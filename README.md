@@ -1,4 +1,4 @@
-[![Sirnino's Logo](./assets/logo.png)](https://sirnino.github.io)
+[![Sirnino's Logo](./assets/logo.png)](https://sirnino.it)
 <hr/>
 <p>
 
