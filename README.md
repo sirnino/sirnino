@@ -10,7 +10,7 @@ Hi there 👋
 
 I'm **Sirnino**, software engineer and architect for passion and profession. Curious internet surfer and world observer.
 
-Find out more about me on my blog [https://sirnino.github.io](https://sirnino.github.io).
+Find out more about me on my blog [https://sirnino.it](https://sirnino.it).
 
 
 <h2>My Stats</h2>
