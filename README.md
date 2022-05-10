@@ -1,7 +1,4 @@
-[![Sirnino's Logo](./assets/logo.png)](https://sirnino.it)
-<hr/>
 <p>
-
 <a href="https://twitter.com/AntoninoSirchia"><img alt="Twitter" src="https://img.shields.io/badge/-AntoninoSirchia-lightblue?style=for-the-badge&logo=twitter"></a>&nbsp;<a href="https://www.linkedin.com/in/antonino-sirchia-15009062/"><img alt="Linkedin" src="https://img.shields.io/badge/-antoninosirchia-blue?style=for-the-badge&logo=linkedin"></a>&nbsp;<a href="https://dev.to/sirnino"><img alt="Dev.to" src="https://img.shields.io/badge/-sirnino-black?style=for-the-badge&logo=dev.to"></a>&nbsp;<a href="https://medium.com/@sirnino"><img src="https://img.shields.io/badge/-sirnino-black?style=for-the-badge&logo=medium"/></a>&nbsp;<a href="https://stackoverflow.com/users/4442344/sirnino"><img src="https://img.shields.io/badge/-sirnino-orange?style=for-the-badge&logo=stackexchange"/></a>
 </p>
 <hr/>
@@ -11,7 +8,6 @@ Hi there 👋
 I'm **Sirnino**, software engineer and architect for passion and profession. Curious internet surfer and world observer.
 
 Find out more about me on my blog [https://sirnino.it](https://sirnino.it).
-
 
 <h2>My Stats</h2>
 
