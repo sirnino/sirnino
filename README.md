@@ -5,9 +5,9 @@
 
 Hi there 👋
 
-I'm **Sirnino**, software engineer and architect for passion and profession. Curious internet surfer and world observer.
+I'm **Antonino Sirchia**, software engineer and architect for passion and profession. Curious internet surfer and world observer.
 
-Find out more about me on my blog [https://sirnino.it](https://sirnino.it).
+Find out more about me on my blog [https://antoninosirchia.it](https://sirnino.it).
 
 <h2>My Stats</h2>
 
@@ -24,15 +24,10 @@ Find out more about me on my blog [https://sirnino.it](https://sirnino.it).
 <p style="margin-bottom:40px; text-align:center;">
   <img align="center" src="assets/java.png" alt="java" title="java" style="margin:0.5rem;"/>
   <img align="center" src="assets/javascript-original.png" title="javascript" alt="javascript" style="margin:0.5rem;"/>
-  
-  <img align="center" src="assets/bitbucket-icon.png" alt="BitBucket" style="margin:0.5rem;"/>
-  <img align="center" src="assets/gitlab-icon.png" alt="Gitlab" style="margin:0.5rem;" />
   <img align="center" src="assets/github-icon.png" alt="Github" style="margin:0.5rem;" />
-  
   <img align="center" src="assets/rabbitmq-icon.png" alt="rabbitmq" style="margin:0.5rem;" />
   <img align="center" src="assets/kafka.png" alt="Kafka" style="margin:0.5rem;" />
   <img align="center" src="assets/kubernetes-icon.png" alt="Kubernetes" style="margin:0.5rem;" />
-  <img align="center" src="assets/docker-icon.png" alt="Docker" style="margin:0.5rem;" />
 <p>
 
 <h2> 📝Latest blog posts </h2>
