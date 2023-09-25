@@ -15,10 +15,6 @@ Find out more about me on my blog [https://antoninosirchia.it](https://sirnino.i
   <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirnino&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/sirnino">
-  <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sirnino&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Sirnino's GitHub Stats" />
-</a>
-
 <h2>🚀 I know about...</h2>
  
 <p style="margin-bottom:40px; text-align:center;">
