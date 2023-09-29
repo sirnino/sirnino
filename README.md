@@ -7,7 +7,7 @@ Hi there 👋
 
 I'm **Antonino Sirchia**, software engineer and architect for passion and profession. Curious internet surfer and world observer.
 
-Find out more about me on my blog [https://antoninosirchia.it](https://sirnino.it).
+Find out more about me on my blog [https://antoninosirchia.it](https://antoninosirchia.it).
 
 <h2>My Stats</h2>
 
@@ -25,19 +25,3 @@ Find out more about me on my blog [https://antoninosirchia.it](https://sirnino.i
   <img align="center" src="assets/kafka.png" alt="Kafka" style="margin:0.5rem;" />
   <img align="center" src="assets/kubernetes-icon.png" alt="Kubernetes" style="margin:0.5rem;" />
 <p>
-
-<h2> 📝Latest blog posts </h2>
-<img src="./assets/background.jpg" width="100%"/>
-
-<ul>
- <li> <h3><a href="https://sirnino.github.io/posts/how-to-write-a-good-commit-message/">How to write a good commit message</a></h3></li>
- <li><h3><a href="https://sirnino.github.io/posts/how-i-am-leveraging-my-it-skills-against-covid-19-pandemic/">How I am leveraging my IT skills against Covid-19 pandemic</a></h3></li>
- <li><h3><a href="https://sirnino.github.io/posts/top-5-design-pattern-every-programmer-should-know-and-use/">Top 5 design pattern every Programmer should know (and use)</a></h3></li>
- </ul>
-
-<br/>
-<hr/>
-<blockquote>
-    <h3>Wanna know how I made this README?</h3>
-    Checkout my <a href="#">tutorial</a>
-</blockquote>
