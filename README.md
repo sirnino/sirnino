@@ -14,14 +14,3 @@ Find out more about me on my blog [https://antoninosirchia.it](https://antoninos
 <a href="https://github.com/sirnino">
   <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirnino&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-<h2>🚀 I know about...</h2>
- 
-<p style="margin-bottom:40px; text-align:center;">
-  <img align="center" src="assets/java.png" alt="java" title="java" style="margin:0.5rem;"/>
-  <img align="center" src="assets/javascript-original.png" title="javascript" alt="javascript" style="margin:0.5rem;"/>
-  <img align="center" src="assets/github-icon.png" alt="Github" style="margin:0.5rem;" />
-  <img align="center" src="assets/rabbitmq-icon.png" alt="rabbitmq" style="margin:0.5rem;" />
-  <img align="center" src="assets/kafka.png" alt="Kafka" style="margin:0.5rem;" />
-  <img align="center" src="assets/kubernetes-icon.png" alt="Kubernetes" style="margin:0.5rem;" />
-<p>
